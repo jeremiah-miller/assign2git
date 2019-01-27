@@ -4,3 +4,5 @@ Jeremiah Miller
 first change
 
 This is a change on newbranch
+conflict resolved
+testbranch change
